@@ -1,6 +1,8 @@
 # github-oauth
 Simple library to integrate Github authentication to android app using OAuth.
 
+This is a forked version of github-oauth I admire the work done by the real author. I was in search for a github auth library for android and this one perfectly matched for my usecase unfortunately when I started to use the library there was many issues related to dependency update AGP issues etc. so in order to fix those issues and tweaking some codes to make it compatible more for my usecase I decided to fork this and maintain a copy myself. Once again thank you for this wonderful library. My be in future I might condribute to the project.
+
 ## Installation
 
     compile 'com.github.geniushkg:oauthLibGithub:1.0.2'
